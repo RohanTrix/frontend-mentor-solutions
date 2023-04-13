@@ -1,29 +1,46 @@
-# product-preview-card
+# Frontend Mentor - Product preview card component solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+- [Author](#author)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Overview
 
-## Project Setup
+### The challenge
 
-```sh
-npm install
-```
+Users should be able to:
 
-### Compile and Hot-Reload for Development
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
 
-```sh
-npm run dev
-```
+### Screenshot
 
-### Compile and Minify for Production
+![Solution Preview](./project-files/screenshot.png)
 
-```sh
-npm run build
-```
+### Links
+
+- Solution URL: [Frontend Mentor Submission]()
+- Live Site URL: [Live Site](https://product-preview-card-fm.web.app/)
+
+## My process
+
+- [Vuejs](https://vuejs.org/) - JS library
+- Tailwind CSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+## Author
+
+- Website - [Rohan Sirohia](https://www.linkedin.com/in/rohan-sirohia/)
+- Frontend Mentor - [@RohanTrix](https://www.frontendmentor.io/profile/RohanTrix)
+- Github - [@RohanTrix](https://github.com/RohanTrix/)
