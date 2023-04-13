@@ -1,29 +1,52 @@
-# interactive-rating
+# Frontend Mentor - Interactive rating component solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built With](#my-process)
+- [Author](#author)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Overview
 
-## Project Setup
+### The challenge
 
-```sh
-npm install
-```
+Users should be able to:
 
-### Compile and Hot-Reload for Development
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
-```sh
-npm run dev
-```
+### Screenshot
 
-### Compile and Minify for Production
+![Solution Preview](./project-files/screenshot.png)
 
-```sh
-npm run build
-```
+
+### Links
+
+- Solution URL: [Frontend Mentor Submission]()
+- Live Site URL: [Live Site](https://interactive-rating-fm.web.app/)
+
+
+## Built With
+
+- [Vuejs](https://vuejs.org/) - JS library
+- Tailwind CSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+
+
+## Author
+
+- Website - [Rohan Sirohia](https://www.linkedin.com/in/rohan-sirohia/)
+- Frontend Mentor - [@RohanTrix](https://www.frontendmentor.io/profile/RohanTrix)
+- Github - [@RohanTrix](https://github.com/RohanTrix/)
