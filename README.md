@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/results-summary-component-using-vue3-and-tailwind-css-sPs-whY_T3)
 - Live Site URL: [Live Site](https://results-summary-fm.web.app/)
 
 ## My process
