@@ -17,7 +17,7 @@
         <button
           class="p-4 w-full my-3 flex justify-center items-center gap-2 text-center bg-[#3c8067] text-white font-medium rounded-xl hover:bg-teal-950">
           <img src="./assets/images/icon-cart.svg" alt="icon">
-          <p>Add to Card</p>
+          Add to Card
         </button>
       </section>
     </div>
@@ -31,9 +31,6 @@ import mobileImg from './assets/images/image-product-mobile.jpg'
 import desktopImg from './assets/images/image-product-desktop.jpg'
 
 const { width } = useWindowSize()
-
-
-
 
 const imgPathResolver = computed(() => {
   return width.value <= 375 ? mobileImg : desktopImg;
