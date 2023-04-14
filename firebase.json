@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "advice-generator-app-fm",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
