@@ -11,3 +11,4 @@
 2. [Interactive Rating](https://github.com/RohanTrix/frontend-mentor-solutions/tree/interactive-rating)
 3. [Product Preview Card](https://github.com/RohanTrix/frontend-mentor-solutions/tree/product-preview-card)
 4. [Advice Generator App](https://github.com/RohanTrix/frontend-mentor-solutions/tree/advice-generator-app)
+5. [QR Code](https://github.com/RohanTrix/frontend-mentor-solutions/tree/qr-code)
