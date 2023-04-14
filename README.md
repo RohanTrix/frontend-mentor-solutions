@@ -1,6 +1,9 @@
 ## Frontend Mentor Solutions
 
-![](./images/profile.png)
+<p class="center">
+
+<img  src="./images/profile.png" height="500" />
+</p>
 
 # Index
 
